@@ -35,16 +35,6 @@
       src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
     />
   </a>
-
-  <h4>Stats</h4>
-
-  <img
-    height="150"
-    alt="Anurag's GitHub stats"
-    src="https://github-readme-stats.vercel.app/api?username=anaismace&show_icons=true&count_private=true&theme=nord&hide=contribs&custom_title=GitHub%20Stats&include_all_commits=true"
-  />
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anaismace&theme=ocean-gradient&border_radius=10&mode=weekly)](https://git.io/streak-stats)
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=anaismace.anaismace&format=True)
 
