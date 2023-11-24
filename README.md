@@ -2,7 +2,8 @@
   <h3>Hi, I'm Anaïs Macé 👋</h3>
   
   <hr />
-  <i>Fullstack developer by day ☀️ - illustrator by night 🌙</i>
+  <p>👩‍💻 Fullstack developer by day ☀️</p>
+  <p>✏️ <a href="https://www.instagram.com/mlleyukikko" target="_blank">Illustrator</a> by night 🌙</p>
   <hr />
 
 
